@@ -14,10 +14,10 @@ Then game over screen shows the score and also ask you,If you want to exit or co
 <u><h4> How to run this game in your system</h4></u>
 
 Step1 :- Download the exe file while viewing raw file.
-Step2 :- Install the exe file in your system.
-Step3 :- Once install, It will create a folder named as Snake_Game.
-        This folder will contain resource folder and one exe file.
-        This exe file will be your Final Gaming Application.
+<br>Step2 :- Install the exe file in your system.
+<br>Step3 :- Once install, It will create a folder named as Snake_Game.
+       <br> This folder will contain resource folder and one exe file.
+        <br>This exe file will be your Final Gaming Application.
 
 You can make Shortcut for this application.
 
